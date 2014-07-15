@@ -1,7 +1,16 @@
 {
 	"color_scheme": "Packages/User/Blackboard.tmTheme",
+	"font_face": "Menlo",
+	"font_size": 12.0,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"scroll_past_end": true,
+	"show_panel_on_build": false,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": "true"
 }
