@@ -516,7 +516,92 @@
 				<string>#268bd2</string>
 			</dict>
 		</dict>
+		
+		<!-- BEGIN Bracket Highlighter plugin color modifications -->
+		<dict>
+		    <key>name</key>
+		    <string>Unmatched</string>
+		    <key>scope</key>
+		    <string>brackethighlighter.unmatched</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+		        <string>#DC322F</string>
+		    </dict>
+		</dict>
 
+		<dict>
+		    <key>name</key>
+		    <string>Bracket Curly</string>
+		    <key>scope</key>
+		    <string>brackethighlighter.curly</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+		        <string>#268BD2</string>
+		    </dict>
+		</dict>
+
+		<dict>
+		    <key>name</key>
+		    <string>Bracket Round</string>
+		    <key>scope</key>
+		    <string>brackethighlighter.round</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+		        <string>#2AA198</string>
+		    </dict>
+		</dict>
+
+		<dict>
+		    <key>name</key>
+		    <string>Bracket Square</string>
+		    <key>scope</key>
+		    <string>brackethighlighter.square</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+		        <string>#D33682</string>
+		    </dict>
+		</dict>
+
+		<dict>
+		    <key>name</key>
+		    <string>Bracket Angle</string>
+		    <key>scope</key>
+		    <string>brackethighlighter.angle</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+		        <string>#AE81FF</string>
+		    </dict>
+		</dict>
+
+		<dict>
+		    <key>name</key>
+		    <string>Bracket Tag</string>
+		    <key>scope</key>
+		    <string>brackethighlighter.tag</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+		        <string>#FD971F</string>
+		    </dict>
+		</dict>
+
+		<dict>
+		    <key>name</key>
+		    <string>Single Quote | Double Quote | Regex</string>
+		    <key>scope</key>
+		    <string>brackethighlighter.quote</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+		        <string>#859900</string>
+		    </dict>
+		</dict>
+		<!-- END Bracket Highlighter plugin color modifications -->
 	</array>
 	<key>uuid</key>
 	<string>A2C6BAA7-90D0-4147-BBF5-96B0CD92D109</string>
