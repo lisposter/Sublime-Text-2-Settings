@@ -6,6 +6,7 @@
 		"Autoprefixer",
 		"BracketHighlighter",
 		"CodeFormatter",
+		"Color Highlighter",
 		"DashDoc",
 		"Emmet",
 		"FileDiffs",
@@ -17,6 +18,7 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
-		"SublimeLinter-jshint"
+		"SublimeLinter-jshint",
+		"TernJS"
 	]
 }
