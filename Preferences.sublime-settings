@@ -5,6 +5,21 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Color Highlighter",
+		"C#",
+		"ASP",
+		"C++",
+		"OCaml",
+		"D",
+		"ActionScript",
+		"Erlang",
+		"Clojure",
+		"Graphviz",
+		"Java",
+		"Matlab",
+		"Scala",
+		"Pascal",
+		"Groovy"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
