@@ -1,0 +1,57 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[
+
+			// Atom
+			{
+				"caption": "Atom",
+				"id": "side-bar-files-open-with-atom",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Atom.app", // OSX
+									"extensions":"*"  //any file
+								},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+
+			//separator
+			{"caption":"-"},
+
+			// Firefox
+			{
+				"caption": "Firefox",
+				"id": "side-bar-files-open-with-firefox",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Firefox.app", // OSX
+									"extensions":"*"  //any file
+								},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+
+			// safari
+			{
+				"caption": "Safari",
+				"id": "side-bar-files-open-with-safari",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Safari.app", // OSX
+									"extensions":"*"  //any file
+								},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+
+			//separator
+			{"caption":"-"},
+
+			
+		]
+	}
+]
