@@ -22,6 +22,7 @@
 		"SublimeLinter",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
-		"TernJS"
+		"TernJS",
+		"Theme - Spacegray"
 	]
 }

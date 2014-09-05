@@ -6,19 +6,19 @@
 	"ignored_packages":
 	[
 		"ASP",
-		"LaTeX",
-		"Haskell",
-		"D",
+		"Groovy",
 		"Erlang",
 		"Clojure",
-		"Pascal",
-		"C++",
-		"Graphviz",
-		"Groovy",
-		"ActionScript",
-		"Java",
 		"OCaml",
+		"C++",
+		"D",
+		"LaTeX",
+		"Haskell",
+		"Java",
 		"Color Highlighter",
+		"Pascal",
+		"Graphviz",
+		"ActionScript",
 		"Matlab",
 		"Scala",
 		"C#"
@@ -32,6 +32,7 @@
 	],
 	"scroll_past_end": true,
 	"show_panel_on_build": false,
+	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": "true"
 }
