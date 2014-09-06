@@ -3,6 +3,7 @@
 	[
 		"AdvancedNewFile",
 		"All Autocomplete",
+		"AutoFileName",
 		"Autoprefixer",
 		"BracketHighlighter",
 		"CodeFormatter",
@@ -16,12 +17,14 @@
 		"Jade",
 		"JavaScriptNext - ES6 Syntax",
 		"LESS",
+		"Markdown Extended",
 		"Markdown Preview",
 		"Pretty JSON",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
+		"Table Editor",
 		"TernJS",
 		"Theme - Spacegray"
 	]
